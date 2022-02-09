@@ -1,4 +1,4 @@
-# Frontend para ecommerce 💽
+# Frontend para ecommerce de discos de vinil 💽
 
 Projeto que demonstra um frontend de um ecommerce de discos de vinil, desenvolvido em react. Orientação da especialista
 [Nathally Souza]().
